@@ -1,0 +1,125 @@
+body{
+    /* font-family: Arial, sans-serif; */
+    font-family: Display, sans-serif;
+    background-color: #780e6f;
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid #000000; */
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 99.7vh;
+    /* height: 750px; */
+    /* border-color: black; */
+    border: 1px solid #000000;
+}
+
+form{
+    background-color: #fff;
+    padding: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 20px;
+    padding-right: 28px;
+    border-radius: 10px ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    /* border-color: black; */
+    /* color:#000000; */
+    border: 5px solid #000000;
+}
+
+form h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-text-icone .icone-sociaux-accounts{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    justify-content: center;
+    gap: 20px;/* espace entre eux */
+}
+
+.icone-sociaux-accounts img{
+    /* margin: 0 10px; */
+    color: #000000;
+    font-size: 24px;
+    /* margin: 0px 5px 10px 5px; */
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.icone-sociaux-accounts img:hover {
+  transform: scale(1.1);
+}
+
+.form-text-icone h4{
+    text-align : center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+form button{
+    text-align : center;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    border-radius: 15px;
+    background-color: #780e6f;
+    width: 102%;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+
+}
+
+button:hover {
+  transform: translateY(-0.5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+form .form-text h4 a{
+    margin-bottom: 20px;
+    margin-top: -15px;
+    display: flex;
+    flex-direction: row-reverse;
+    color: #000000;
+
+    /* text-decoration: underline; */
+}
+
+form .form-name input, .form-password input, .form-email input{
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+form .paragraphe{
+    text-align: center;
+    justify-content: center; 
+    margin-top: 20px;
+    padding-bottom: 02%;
+}
+
+.link{
+    text-decoration: none;
+    color: #000000;
+}
+
+/* form .form-email input{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+} */
