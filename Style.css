@@ -4,7 +4,6 @@ body{
     background-color: #780e6f;
     margin: 0;
     padding: 0;
-    /* border: 1px solid #000000; */
 }
 
 .container{
@@ -13,7 +12,6 @@ body{
     align-items: center;
     height: 99.7vh;
     /* height: 750px; */
-    /* border-color: black; */
     border: 1px solid #000000;
 }
 
@@ -27,8 +25,6 @@ form{
     border-radius: 10px ;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 300px;
-    /* border-color: black; */
-    /* color:#000000; */
     border: 5px solid #000000;
 }
 
@@ -42,14 +38,12 @@ form h1{
     align-items: center;
     margin-bottom: 15px;
     justify-content: center;
-    gap: 20px;/* espace entre eux */
+    gap: 20px;
 }
 
 .icone-sociaux-accounts img{
-    /* margin: 0 10px; */
     color: #000000;
     font-size: 24px;
-    /* margin: 0px 5px 10px 5px; */
     text-align: center;
     align-items: center;
     display: flex;
@@ -93,8 +87,6 @@ form .form-text h4 a{
     display: flex;
     flex-direction: row-reverse;
     color: #000000;
-
-    /* text-decoration: underline; */
 }
 
 form .form-name input, .form-password input, .form-email input{
@@ -116,10 +108,3 @@ form .paragraphe{
     text-decoration: none;
     color: #000000;
 }
-
-/* form .form-email input{
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-} */
