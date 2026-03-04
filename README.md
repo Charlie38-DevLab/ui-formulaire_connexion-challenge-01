@@ -21,4 +21,10 @@ https://charlie38-devlab.github.io/ui-formulaire_connexion-challenge-01/
 ## 📸 Aperçu
 <img width="1672" height="912" alt="Capture d&#39;écran 2026-02-26 144415" src="https://github.com/user-attachments/assets/8d4e8ab1-5467-4aad-a983-134bc1e68bb0" />
 
+## 👨‍💻 Auteur
+
+Projet réalisé par **Charlie Corentin AGBAYAHOUN LOKOSSOU**  
+Développeur Full-Stack Web & Mobile  
+Passionné par la création de solutions digitales modernes et performantes.
+
 ### Ce projet fait partie de mes défis UI (interfaces utilisateur) pour construire un portfolio professionnel en développement web.
